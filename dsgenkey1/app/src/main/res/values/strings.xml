@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DSGENKEY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="valid_code">Верный код</string>
+    <string name="orion_nitro_generator">DSGENKEY</string>
+    <string name="start_generating">Начало генерации</string>
+    <string name="stop_generating">Конец генерации</string>
+    <string name="created_for_free_use">Создано для свободного использования</string>
+    <string name="your_account_token">Ваш токен</string>
+    <string name="save_settings">Сохранить</string>
+    <string name="code">Код</string>
+    <string name="policy">1. Данные, переданные вами в данное приложение, никуда не отправляются и не логируются.\n\n2. Приложение имеет открытый исходный код.</string>
+    <string name="go_back">Назад</string>
+</resources>
