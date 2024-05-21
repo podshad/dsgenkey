@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "ru.levprav.orionnitrogenerator"
+        applicationId "ru.podshad.orionnitrogenerator"
         minSdk 21
         targetSdk 32
         versionCode 1

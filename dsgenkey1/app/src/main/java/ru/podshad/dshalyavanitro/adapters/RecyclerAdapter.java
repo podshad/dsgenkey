@@ -1,4 +1,4 @@
-package ru.levprav.dshalyavanitro.adapters;
+package ru.podshad.dshalyavanitro.adapters;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -13,8 +13,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import ru.levprav.dshalyavanitro.R;
-import ru.levprav.dshalyavanitro.retrofit.models.CodeRequestModel;
+import ru.podshad.dshalyavanitro.R;
+import ru.podshad.dshalyavanitro.retrofit.models.CodeRequestModel;
 
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewRow> {
 

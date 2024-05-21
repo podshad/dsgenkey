@@ -1,4 +1,4 @@
-package ru.levprav.dshalyavanitro.retrofit.models;
+package ru.podshad.dshalyavanitro.retrofit.models;
 
 public class CodeRequestModel {
     private String code;

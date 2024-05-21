@@ -21,9 +21,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import ru.levprav.dshalyavanitro.R;
-import ru.levprav.dshalyavanitro.adapters.RecyclerAdapter;
-import ru.levprav.dshalyavanitro.retrofit.models.CodeRequestModel;
+import ru.podshad.dshalyavanitro.R;
+import ru.podshad.dshalyavanitro.adapters.RecyclerAdapter;
+import ru.podshad.dshalyavanitro.retrofit.models.CodeRequestModel;
 
 public class MainFragment extends Fragment {
 

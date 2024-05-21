@@ -1,4 +1,4 @@
-package ru.levprav.orionnitrogenerator;
+package ru.podshad.orionnitrogenerator;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ru.levprav.orionnitrogenerator", appContext.getPackageName());
+        assertEquals("ru.podshad.orionnitrogenerator", appContext.getPackageName());
     }
 }

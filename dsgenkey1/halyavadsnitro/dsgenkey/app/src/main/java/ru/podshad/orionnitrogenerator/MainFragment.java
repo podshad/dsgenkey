@@ -1,4 +1,4 @@
-package ru.levprav.orionnitrogenerator;
+package ru.podshad.orionnitrogenerator;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -21,8 +21,8 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import ru.levprav.orionnitrogenerator.adapters.RecyclerAdapter;
-import ru.levprav.orionnitrogenerator.retrofit.models.CodeRequestModel;
+import ru.podshad.orionnitrogenerator.adapters.RecyclerAdapter;
+import ru.podshad.orionnitrogenerator.retrofit.models.CodeRequestModel;
 
 public class MainFragment extends Fragment {
 

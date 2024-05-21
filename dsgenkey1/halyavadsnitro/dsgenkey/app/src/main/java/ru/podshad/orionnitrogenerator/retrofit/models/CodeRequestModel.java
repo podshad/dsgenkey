@@ -1,4 +1,4 @@
-package ru.levprav.orionnitrogenerator.retrofit.models;
+package ru.podshad.orionnitrogenerator.retrofit.models;
 
 public class CodeRequestModel {
     private String code;

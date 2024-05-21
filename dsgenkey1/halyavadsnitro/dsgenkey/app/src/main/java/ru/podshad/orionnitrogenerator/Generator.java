@@ -1,4 +1,4 @@
-package ru.levprav.orionnitrogenerator;
+package ru.podshad.orionnitrogenerator;
 
 import android.app.Activity;
 import android.content.Context;
@@ -14,8 +14,8 @@ import java.util.concurrent.ThreadLocalRandom;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
-import ru.levprav.orionnitrogenerator.retrofit.RequestsMethods;
-import ru.levprav.orionnitrogenerator.retrofit.models.CodeRequestModel;
+import ru.podshad.orionnitrogenerator.retrofit.RequestsMethods;
+import ru.podshad.orionnitrogenerator.retrofit.models.CodeRequestModel;
 
 public class Generator {
     private final String letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";

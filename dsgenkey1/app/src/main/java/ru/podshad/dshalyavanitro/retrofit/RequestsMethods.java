@@ -1,9 +1,9 @@
-package ru.levprav.dshalyavanitro.retrofit;
+package ru.podshad.dshalyavanitro.retrofit;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
-import ru.levprav.dshalyavanitro.retrofit.models.CodeRequestModel;
+import ru.podshad.dshalyavanitro.retrofit.models.CodeRequestModel;
 
 public interface RequestsMethods {
     @GET("entitlements/gift-codes/{code}?with_application=false&with_subscription_plan=true")

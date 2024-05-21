@@ -1,4 +1,4 @@
-package ru.levprav.orionnitrogenerator;
+package ru.podshad.orionnitrogenerator;
 
 import org.junit.Test;
 

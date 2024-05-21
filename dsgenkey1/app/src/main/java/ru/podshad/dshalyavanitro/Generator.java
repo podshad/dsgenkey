@@ -14,8 +14,8 @@ import java.util.concurrent.ThreadLocalRandom;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
-import ru.levprav.dshalyavanitro.retrofit.RequestsMethods;
-import ru.levprav.dshalyavanitro.retrofit.models.CodeRequestModel;
+import ru.podshad.dshalyavanitro.retrofit.RequestsMethods;
+import ru.podshad.dshalyavanitro.retrofit.models.CodeRequestModel;
 
 public class Generator {
     private final String letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";

@@ -7,7 +7,7 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
-import ru.levprav.dshalyavanitro.R;
+import ru.podshad.dshalyavanitro.R;
 
 public class MainActivity extends AppCompatActivity {
 

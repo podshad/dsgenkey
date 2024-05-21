@@ -1,4 +1,4 @@
-package ru.levprav.orionnitrogenerator.adapters;
+package ru.podshad.orionnitrogenerator.adapters;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -13,8 +13,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import ru.levprav.orionnitrogenerator.R;
-import ru.levprav.orionnitrogenerator.retrofit.models.CodeRequestModel;
+import ru.podshad.orionnitrogenerator.R;
+import ru.podshad.orionnitrogenerator.retrofit.models.CodeRequestModel;
 
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewRow> {
 
